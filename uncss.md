@@ -1,6 +1,3 @@
-
-# UnCSS 
-
 This parses your HTML and CSS files, removing unused CSS. 
 
 If your projects include a CSS framework such as Bootstrap or use a reset stylesheet, consider adding UnCSS to your workflow. It will shave unnecessary CSS—and bytes—from your code.
