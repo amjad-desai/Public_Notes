@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[Greetings](https://amjad-desai.github.io/notion_embeds/greetings.html)
 
 You can use the [editor on GitHub](https://github.com/amjad-desai/notion_embeds/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
